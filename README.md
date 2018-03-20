@@ -4,7 +4,7 @@
 
 Résultat :
 
-![Capture d'écran "exit pop-up"](./img/print_screen_popup.png)
+![Capture d'écran "exit pop-up"](./img/screenshot_popup.png)
 
 ### Contenu d'un pop-up :
   * un titre
